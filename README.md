@@ -9,4 +9,4 @@ If needed, OmniGraffle is able to export thes diagrams in
 many different vector formats, including Visio, PDF, and SVG.
 
 At the time of this writing, there is a 14 days free trial license
-available.
+available for OmniGraffle, e.g. for exporting the images.
