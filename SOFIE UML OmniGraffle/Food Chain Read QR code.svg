@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="2061 1673 1279 1451" width="1279" height="1451">
+  <defs>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="532.22656" cap-height="719.7266" ascent="770.0195" descent="-229.98047" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Helvetica-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica" font-size="9" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M -8 0 L 0 0 M 0 3 L -8 0 L 0 -3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-05-24 10:49:09 +0000</dc:date>
+  </metadata>
+  <g id="Food_Chain_Read_QR_code" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none">
+    <title>Food Chain Read QR code</title>
+    <g id="Food_Chain_Read_QR_code: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_181">
+        <g id="Graphic_183">
+          <path d="M 3339 2052 L 2468.0225 2052 L 2468.0225 2475 L 3339 2475 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Graphic_182">
+          <path d="M 2468.0225 2052 L 2547 2052 L 2547 2061.8372 L 2538.8372 2070 L 2468.0225 2069.6742 Z" fill="white"/>
+          <path d="M 2468.0225 2052 L 2547 2052 L 2547 2061.8372 L 2538.8372 2070 L 2468.0225 2069.6742 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(2473.0225 2054)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="0" y="11">For all IoT </tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_144">
+        <g id="Graphic_146">
+          <rect x="2853" y="2070" width="468" height="387" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_145">
+          <path d="M 2853 2070 L 3042 2070 L 3042 2079 L 3033 2088 L 2853 2087.9998 Z" fill="white"/>
+          <path d="M 2853 2070 L 3042 2070 L 3042 2079 L 3033 2088 L 2853 2087.9998 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(2858 2072)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="0" y="11">Food chain pilot IoT platform</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_180">
+        <g id="Graphic_143">
+          <rect x="2358" y="1773" width="468" height="864" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_142">
+          <path d="M 2358 1773 L 2520 1773 L 2520 1783.9366 L 2511 1794.8734 L 2358 1794.8732 Z" fill="white"/>
+          <path d="M 2358 1773 L 2520 1773 L 2520 1783.9366 L 2511 1794.8734 L 2358 1794.8732 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(2363 1776.9367)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="0" y="11">Food chain pilot platform</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_63">
+        <title>Actor</title>
+        <g id="Group_65">
+          <g id="Graphic_72">
+            <text transform="translate(2070.6592 1862)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">SM customer</tspan>
+            </text>
+          </g>
+          <g id="Group_66">
+            <g id="Graphic_71">
+              <ellipse cx="2105.9996" cy="1825.968" rx="8.1008529443474" ry="7.96805207640751" fill="white"/>
+              <ellipse cx="2105.9996" cy="1825.968" rx="8.1008529443474" ry="7.96805207640751" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_70">
+              <line x1="2106" y1="1833.9344" x2="2106" y2="1845.8734" stroke="black" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_69">
+              <line x1="2106" y1="1845.8734" x2="2097" y2="1861.809" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_68">
+              <line x1="2106" y1="1845.8734" x2="2115" y2="1861.809" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_67">
+              <line x1="2115" y1="1840.4262" x2="2097" y2="1840.2787" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+        <g id="Line_64">
+          <line x1="2106" y1="1881" x2="2106" y2="2637" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Graphic_28">
+        <title>Boundary</title>
+        <path d="M 2226.728 1805.272 C 2233.7574 1812.3015 2233.7574 1823.6985 2226.728 1830.728 C 2219.6985 1837.7574 2208.3015 1837.7574 2201.272 1830.728 C 2194.2426 1823.6985 2196.6875 1816.5 2196 1818 C 2190.3254 1818.1309 2187 1818 2187 1818 L 2187 1836 L 2187 1818 L 2187 1800 L 2187 1818 C 2187 1818 2187.0625 1818 2196 1818 C 2196.5625 1818.75 2194.2426 1812.3015 2201.272 1805.272 C 2208.3015 1798.2426 2219.6985 1798.2426 2226.728 1805.272 Z" fill="white"/>
+        <path d="M 2226.728 1805.272 C 2233.7574 1812.3015 2233.7574 1823.6985 2226.728 1830.728 C 2219.6985 1837.7574 2208.3015 1837.7574 2201.272 1830.728 C 2194.2426 1823.6985 2196.6875 1816.5 2196 1818 C 2190.3254 1818.1309 2187 1818 2187 1818 L 2187 1836 L 2187 1818 L 2187 1800 L 2187 1818 C 2187 1818 2187.0625 1818 2196 1818 C 2196.5625 1818.75 2194.2426 1812.3015 2201.272 1805.272 C 2208.3015 1798.2426 2219.6985 1798.2426 2226.728 1805.272 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(2169.5 1841)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="4.6591977" y="11">SM customer </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="29.989276" y="25">app </tspan>
+        </text>
+      </g>
+      <g id="Line_31">
+        <line x1="2214.3394" y1="1836.2469" x2="2214.3394" y2="2637" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_62">
+        <rect x="2097" y="1908" width="18" height="639" fill="white"/>
+        <rect x="2097" y="1908" width="18" height="639" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_79">
+        <rect x="2205.3394" y="1908.917" width="18" height="629.0829" fill="white"/>
+        <rect x="2205.3394" y="1908.917" width="18" height="629.0829" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_94">
+        <g id="Group_96">
+          <g id="Graphic_98">
+            <ellipse cx="2325.4998" cy="1925.4997" rx="17.9998597161336" ry="17.4997729464313" fill="white"/>
+            <ellipse cx="2325.4998" cy="1925.4997" rx="17.9998597161336" ry="17.4997729464313" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Line_97">
+            <line x1="2307.5" y1="1943" x2="2343.5" y2="1943" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_95">
+          <text transform="translate(2300 1944.0986)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="1.8222656" y="11">QR code</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_100">
+        <path d="M 2223 1926 L 2223 1925.4997 L 2297.35 1925.4997" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_101">
+        <text transform="translate(2254.5722 1913.0463)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">scan()</tspan>
+        </text>
+      </g>
+      <g id="Line_103">
+        <line x1="2115" y1="1908.5003" x2="2195.4394" y2="1908.5003" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_102">
+        <text transform="translate(2131.4935 1909.0468)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">get product info</tspan>
+        </text>
+      </g>
+      <g id="Group_104">
+        <title>Boundary</title>
+        <g id="Line_106">
+          <line x1="2430.1312" y1="1836.2496" x2="2430" y2="2619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Graphic_105">
+          <title>Boundary</title>
+          <path d="M 2442.728 1805.272 C 2449.7574 1812.3015 2449.7574 1823.6985 2442.728 1830.728 C 2435.6985 1837.7574 2424.3015 1837.7574 2417.272 1830.728 C 2410.2426 1823.6985 2412.6875 1816.5 2412 1818 C 2406.3254 1818.1309 2403 1818 2403 1818 L 2403 1836 L 2403 1818 L 2403 1800 L 2403 1818 C 2403 1818 2403.0625 1818 2412 1818 C 2412.5625 1818.75 2410.2426 1812.3015 2417.272 1805.272 C 2424.3015 1798.2426 2435.6985 1798.2426 2442.728 1805.272 Z" fill="white"/>
+          <path d="M 2442.728 1805.272 C 2449.7574 1812.3015 2449.7574 1823.6985 2442.728 1830.728 C 2435.6985 1837.7574 2424.3015 1837.7574 2417.272 1830.728 C 2410.2426 1823.6985 2412.6875 1816.5 2412 1818 C 2406.3254 1818.1309 2403 1818 2403 1818 L 2403 1836 L 2403 1818 L 2403 1800 L 2403 1818 C 2403 1818 2403.0625 1818 2412 1818 C 2412.5625 1818.75 2410.2426 1812.3015 2417.272 1805.272 C 2424.3015 1798.2426 2435.6985 1798.2426 2442.728 1805.272 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(2385.5 1841)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="10.313495" y="11">Food chain </tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="17.983416" y="25">pilot API</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_107">
+        <rect x="2421" y="1980" width="18" height="549" fill="white"/>
+        <rect x="2421" y="1980" width="18" height="549" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_109">
+        <line x1="2223.3394" y1="1980" x2="2411.1" y2="1980" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_108">
+        <text transform="translate(2242.5442 1980.5465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">get product info(package ID, auth code)</tspan>
+        </text>
+      </g>
+      <g id="Group_114">
+        <g id="Group_116">
+          <g id="Graphic_118">
+            <ellipse cx="2762.9998" cy="1817.4997" rx="17.9998597161339" ry="17.4997729464313" fill="white"/>
+            <ellipse cx="2762.9998" cy="1817.4997" rx="17.9998597161339" ry="17.4997729464313" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Line_117">
+            <line x1="2745" y1="1835" x2="2781" y2="1835" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_115">
+          <text transform="translate(2718.5 1850.5462)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="2.1396484" y="11">Food chain pilot </tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="10.477539" y="25">public ledger</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_119">
+        <line x1="2762.9998" y1="1835.2495" x2="2763" y2="2619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Group_120">
+        <g id="Group_122">
+          <g id="Graphic_124">
+            <ellipse cx="2589.7178" cy="1814.9578" rx="17.2004813307921" ry="15.9718255213695" fill="white"/>
+            <ellipse cx="2589.7178" cy="1814.9578" rx="17.2004813307921" ry="15.9718255213695" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Line_123">
+            <path d="M 2598.3172 1806.972 L 2589.717 1798.986 L 2598.3172 1791" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_121">
+          <text transform="translate(2534 1833.352)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="15.639648" y="11">Food chain pilot </tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="26.646484" y="25">product info </tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="31.319336" y="39">authorizer</tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="8.977539" y="53">(interledger query)</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_126">
+        <line x1="2592" y1="1890" x2="2592" y2="2619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_127">
+        <rect x="2583" y="1989.2477" width="18" height="530.75233" fill="white"/>
+        <rect x="2583" y="1989.2477" width="18" height="530.75233" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_129">
+        <line x1="2439" y1="1989" x2="2574.6713" y2="1989" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_128">
+        <text transform="translate(2447.747 1993.0465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">get product info(</tspan>
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="20">              package ID, auth code)</tspan>
+        </text>
+      </g>
+      <g id="Line_131">
+        <line x1="2601" y1="1998" x2="2744.0998" y2="1998" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_130">
+        <text transform="translate(2620.712 1998.5465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">get product info(package ID)</tspan>
+        </text>
+      </g>
+      <g id="Line_132">
+        <line x1="2610.9" y1="2025" x2="2753.9998" y2="2025" marker-start="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_133">
+        <text transform="translate(2611.3706 2029.0465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">set of private ledger transactions</tspan>
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="20">as a Merkle tree</tspan>
+        </text>
+      </g>
+      <g id="Graphic_134">
+        <rect x="2754" y="1997.785" width="18" height="27.000002" fill="white"/>
+        <rect x="2754" y="1997.785" width="18" height="27.000002" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_136">
+        <line x1="2232.9" y1="1935" x2="2304" y2="1935" marker-start="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_135">
+        <text transform="translate(2239.1143 1935.5465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">universal link</tspan>
+        </text>
+      </g>
+      <g id="Graphic_137">
+        <text transform="translate(2066 1678.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">For understanding universal links, see</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">- https://badootech.badoo.com/universal-links-for-android-and-ios-1ddb1e70cab0</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="51.895996">- https://medium.com/@abhimuralidharan/universal-links-in-ios-79c4ee038272</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="70.34399">– https://developer.apple.com/ios/universal-links/</tspan>
+        </text>
+      </g>
+      <g id="Group_138">
+        <title>Boundary</title>
+        <g id="Line_140">
+          <line x1="2943.1343" y1="2133.2495" x2="2943.1343" y2="2439" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+        <g id="Graphic_139">
+          <title>Boundary</title>
+          <path d="M 2955.728 2102.272 C 2962.7574 2109.3015 2962.7574 2120.6985 2955.728 2127.728 C 2948.6985 2134.7574 2937.3015 2134.7574 2930.272 2127.728 C 2923.2426 2120.6985 2925.6875 2113.5 2925 2115 C 2919.3254 2115.131 2916 2115 2916 2115 L 2916 2133 L 2916 2115 L 2916 2097 L 2916 2115 C 2916 2115 2916.0625 2115 2925 2115 C 2925.5625 2115.75 2923.2426 2109.3015 2930.272 2102.272 C 2937.3015 2095.2426 2948.6985 2095.2426 2955.728 2102.272 Z" fill="white"/>
+          <path d="M 2955.728 2102.272 C 2962.7574 2109.3015 2962.7574 2120.6985 2955.728 2127.728 C 2948.6985 2134.7574 2937.3015 2134.7574 2930.272 2127.728 C 2923.2426 2120.6985 2925.6875 2113.5 2925 2115 C 2919.3254 2115.131 2916 2115 2916 2115 L 2916 2133 L 2916 2115 L 2916 2097 L 2916 2115 C 2916 2115 2916.0625 2115 2925 2115 C 2925.5625 2115.75 2923.2426 2109.3015 2930.272 2102.272 C 2937.3015 2095.2426 2948.6985 2095.2426 2955.728 2102.272 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          <text transform="translate(2898.5 2138)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="21.997088" y="11">SOFIE </tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="8.640643" y="25">adaptor API</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_148">
+        <path d="M 2601 2187 L 2715.8203 2186.6602 L 2924.1 2186.9846" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_147">
+        <text transform="translate(2652.6852 2187.231)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">get product info(Merkle tree, auth code)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_149">
+        <rect x="2934" y="2187" width="18" height="207" fill="white"/>
+        <rect x="2934" y="2187" width="18" height="207" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_153">
+        <g id="Group_155">
+          <g id="Graphic_157">
+            <ellipse cx="3096" cy="2114.4997" rx="17.999859716134" ry="17.4997729464316" fill="white"/>
+            <ellipse cx="3096" cy="2114.4997" rx="17.999859716134" ry="17.4997729464316" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Line_156">
+            <line x1="3078" y1="2132" x2="3114" y2="2132" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_154">
+          <text transform="translate(3051.5 2136.7159)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="7.480469" y="11">Private ledger</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_152">
+        <line x1="3096" y1="2132.2495" x2="3096" y2="2439" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_151">
+        <rect x="3087" y="2222.8543" width="18" height="27.000002" fill="white"/>
+        <rect x="3087" y="2222.8543" width="18" height="27.000002" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_159">
+        <line x1="2952" y1="2223" x2="3077.1" y2="2223" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_158">
+        <text transform="translate(2973.1406 2223.5465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">get(Merkle tree)</tspan>
+        </text>
+      </g>
+      <g id="Line_162">
+        <line x1="2961.8494" y1="2249" x2="3087" y2="2249" marker-start="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_161">
+        <text transform="translate(2962.9942 2249.5465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">database query parameters</tspan>
+        </text>
+      </g>
+      <g id="Graphic_163">
+        <rect x="2943" y="2304" width="18" height="27.000002" fill="white"/>
+        <rect x="2943" y="2304" width="18" height="27.000002" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_165">
+        <path d="M 2952 2277 L 3060 2277 L 3060 2304 L 2970.9 2304" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_164">
+        <text transform="translate(2979.626 2277.5465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">verify(auth, query)</tspan>
+        </text>
+      </g>
+      <g id="Group_169">
+        <g id="Group_171">
+          <g id="Graphic_173">
+            <ellipse cx="3240" cy="2114.4997" rx="17.9998597161341" ry="17.4997729464316" fill="white"/>
+            <ellipse cx="3240" cy="2114.4997" rx="17.9998597161341" ry="17.4997729464316" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Line_172">
+            <line x1="3222" y1="2132" x2="3258" y2="2132" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_170">
+          <text transform="translate(3195.5 2136.7159)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="9.581055" y="11">IoT database</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_168">
+        <line x1="3240" y1="2132.2495" x2="3240" y2="2439" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_167">
+        <rect x="3231" y="2358.192" width="18" height="27.000002" fill="white"/>
+        <rect x="3231" y="2358.192" width="18" height="27.000002" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_175">
+        <line x1="2952" y1="2358" x2="3221.1" y2="2358" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_174">
+        <text transform="translate(2992.04 2358.5465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">query database(query parameters)</tspan>
+        </text>
+      </g>
+      <g id="Line_177">
+        <line x1="2961.8494" y1="2385" x2="3231" y2="2385" marker-start="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_176">
+        <text transform="translate(3012.457 2385.5465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">product info (for a whole box / box set)</tspan>
+        </text>
+      </g>
+      <g id="Line_179">
+        <line x1="2610.9" y1="2395" x2="2934" y2="2395" marker-start="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_178">
+        <text transform="translate(2688.578 2395.5465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">product info (for a whole box / box set)</tspan>
+        </text>
+      </g>
+      <g id="Line_185">
+        <line x1="2448.9" y1="2520" x2="2583" y2="2520" marker-start="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_184">
+        <text transform="translate(2460.439 2524.0465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">product info for package,</tspan>
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="20">integrity information</tspan>
+        </text>
+      </g>
+      <g id="Line_187">
+        <line x1="2232.9" y1="2529" x2="2421" y2="2529" marker-start="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_186">
+        <text transform="translate(2271.0527 2533.0465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">product info for package,</tspan>
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="20">integrity information</tspan>
+        </text>
+      </g>
+      <g id="Line_189">
+        <line x1="2124.9" y1="2538" x2="2205.3394" y2="2538" marker-start="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_188">
+        <text transform="translate(2120.2428 2538.5465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">product info for package</tspan>
+        </text>
+      </g>
+      <g id="Graphic_190">
+        <text transform="translate(2071.604 2674.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">The idea of the authentication code is to bind the QR code to the information about a specific box, at each IoT platform.  It should look like a random code and</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">be unpredictable, i.e. so that it can be constructed only with the knowledge of the box where the package was packed from.  </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="69.896">The details remain to be worked out.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="106.344">Here is one possible sketch:</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="143.792">1. Assume the each of the grape boxes has a </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" y="143.792">serial number. </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" y="143.792">Will the boxes be reused?  Will they contain the same serial number?</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="163.2561">2. Assume the grape box </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" y="163.2561">serial number</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" y="163.2561"> and </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" y="163.2561">handling date</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" y="163.2561"> is stored into the IoT database</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="182.72021">3. Formulate the database query to include the </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" y="182.72021">serial number</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" y="182.72021"> and </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" y="182.72021">handling date,</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" y="182.72021"> i.e. these are the authorized part of the database query.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="202.18433">4. Store the </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" y="202.18433">serial number </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" y="202.18433">and </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="black" y="202.18433">handling date</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" y="202.18433"> into the transaction in the private ledger.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="220.64844">5. Store the transaction IDs of the private transactions into the public ledger transaction.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="239.09644">6. Compute the authentication code as follows:</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="257.54443">       auth = nonce, hash(nonce, serial number, Merkle tree of private transaction IDs)</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="293.99243">Now, the nonce (a short random number) is part of the authentication code itself.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="312.44043">The authentication code is bound to the box, since it contains the box serial number.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="330.88843">The authentication code is bound to the private ledger transactions, since it contains their IDs.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="367.33643">The public ledger does not need to know the serial number, as it is found from the private ledgers.  Hence, the universal link does not reveal the box.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="385.78442">The private ledger transaction IDs are stored in the public ledger as a Merkle tree, not revealing them.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="404.2324">- this may not work, as how to then query the private ledger?</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
