@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="1188 819 387 478" width="387" height="478">
+  <defs>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 0 M 0 -3 L 8 0 L 0 3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica" font-size="9" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-05-24 06:43:19 +0000</dc:date>
+  </metadata>
+  <g id="Food_Chain_Handover__1" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none">
+    <title>Food Chain Handover #1</title>
+    <g id="Food_Chain_Handover__1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_84">
+        <title>Actor</title>
+        <g id="Group_86">
+          <g id="Graphic_93">
+            <text transform="translate(1503.3193 872)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TR employee</tspan>
+            </text>
+          </g>
+          <g id="Group_87">
+            <g id="Graphic_92">
+              <ellipse cx="1538.9996" cy="835.968" rx="8.1008529443474" ry="7.96805207640733" fill="white"/>
+              <ellipse cx="1538.9996" cy="835.968" rx="8.1008529443474" ry="7.96805207640733" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_91">
+              <line x1="1539" y1="843.9344" x2="1539" y2="855.8734" stroke="black" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_90">
+              <line x1="1539" y1="855.8734" x2="1530" y2="871.809" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_89">
+              <line x1="1539" y1="855.8734" x2="1548" y2="871.809" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_88">
+              <line x1="1548" y1="850.4262" x2="1530" y2="850.2787" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+        <g id="Line_85">
+          <line x1="1539" y1="891" x2="1539" y2="1296" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_63">
+        <title>Actor</title>
+        <g id="Group_65">
+          <g id="Graphic_72">
+            <text transform="translate(1190.6543 872)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">Producer</tspan>
+            </text>
+          </g>
+          <g id="Group_66">
+            <g id="Graphic_71">
+              <ellipse cx="1214.9996" cy="835.968" rx="8.10085294434746" ry="7.96805207640733" fill="white"/>
+              <ellipse cx="1214.9996" cy="835.968" rx="8.10085294434746" ry="7.96805207640733" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_70">
+              <line x1="1215" y1="843.9344" x2="1215" y2="855.8734" stroke="black" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_69">
+              <line x1="1215" y1="855.8734" x2="1206" y2="871.809" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_68">
+              <line x1="1215" y1="855.8734" x2="1224" y2="871.809" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_67">
+              <line x1="1224" y1="850.4262" x2="1206" y2="850.2787" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+        <g id="Line_64">
+          <line x1="1215" y1="891" x2="1215" y2="1296" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Graphic_27">
+        <title>Boundary</title>
+        <path d="M 1443.728 833.2721 C 1450.7574 840.3015 1450.7574 851.6985 1443.728 858.7279 C 1436.6985 865.7574 1425.3015 865.7574 1418.2721 858.7279 C 1411.2426 851.6985 1413.6875 844.5 1413 846 C 1407.3254 846.1309 1404 846 1404 846 L 1404 864 L 1404 846 L 1404 828 L 1404 846 C 1404 846 1404.0625 846 1413 846 C 1413.5625 846.75 1411.2426 840.3015 1418.2721 833.2721 C 1425.3015 826.2426 1436.6985 826.2426 1443.728 833.2721 Z" fill="white"/>
+        <path d="M 1443.728 833.2721 C 1450.7574 840.3015 1450.7574 851.6985 1443.728 858.7279 C 1436.6985 865.7574 1425.3015 865.7574 1418.2721 858.7279 C 1411.2426 851.6985 1413.6875 844.5 1413 846 C 1407.3254 846.1309 1404 846 1404 846 L 1404 864 L 1404 846 L 1404 828 L 1404 846 C 1404 846 1404.0625 846 1413 846 C 1413.5625 846.75 1411.2426 840.3015 1418.2721 833.2721 C 1425.3015 826.2426 1436.6985 826.2426 1443.728 833.2721 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(1386.5 869)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x=".6455258" y="11">FC Mobile App </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="24.349627" y="25">@ TR </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="13.984393" y="39">employee</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <title>Boundary</title>
+        <path d="M 1335.7279 833.2721 C 1342.7574 840.3015 1342.7574 851.6985 1335.7279 858.7279 C 1328.6985 865.7574 1317.3015 865.7574 1310.2721 858.7279 C 1303.2426 851.6985 1305.6875 844.5 1305 846 C 1299.3254 846.1309 1296 846 1296 846 L 1296 864 L 1296 846 L 1296 828 L 1296 846 C 1296 846 1296.0625 846 1305 846 C 1305.5625 846.75 1303.2426 840.3015 1310.2721 833.2721 C 1317.3015 826.2426 1328.6985 826.2426 1335.7279 833.2721 Z" fill="white"/>
+        <path d="M 1335.7279 833.2721 C 1342.7574 840.3015 1342.7574 851.6985 1335.7279 858.7279 C 1328.6985 865.7574 1317.3015 865.7574 1310.2721 858.7279 C 1303.2426 851.6985 1305.6875 844.5 1305 846 C 1299.3254 846.1309 1296 846 1296 846 L 1296 864 L 1296 846 L 1296 828 L 1296 846 C 1296 846 1296.0625 846 1305 846 C 1305.5625 846.75 1303.2426 840.3015 1310.2721 833.2721 C 1317.3015 826.2426 1328.6985 826.2426 1335.7279 833.2721 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(1278.5 869)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x=".6455258" y="11">FC Mobile App </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="7.896502" y="25">@ Producer</tspan>
+        </text>
+      </g>
+      <g id="Line_31">
+        <line x1="1323.3394" y1="864.2469" x2="1323.3394" y2="1296" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_32">
+        <line x1="1431.521" y1="864.2425" x2="1431.521" y2="1296" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_62">
+        <rect x="1206" y="936" width="18" height="18" fill="white"/>
+        <rect x="1206" y="936" width="18" height="18" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_75">
+        <line x1="1224" y1="936" x2="1304.1" y2="936" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_76">
+        <text transform="translate(1251.0794 936.5465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">Pass(box)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_79">
+        <rect x="1314.3394" y="936" width="18" height="63" fill="white"/>
+        <rect x="1314.3394" y="936" width="18" height="63" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_80">
+        <rect x="1422.521" y="998.9648" width="18" height="90" fill="white"/>
+        <rect x="1422.521" y="998.9648" width="18" height="90" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_82">
+        <line x1="1332" y1="999" x2="1412.1" y2="999" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_83">
+        <rect x="1530" y="1026" width="18" height="54" fill="white"/>
+        <rect x="1530" y="1026" width="18" height="54" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_95">
+        <line x1="1440" y1="1026" x2="1520.1" y2="1026" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_94">
+        <text transform="translate(1460.8238 1026.5465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">Accept?(box)</tspan>
+        </text>
+      </g>
+      <g id="Line_97">
+        <line x1="1530" y1="1080" x2="1449.9" y2="1080" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_96">
+        <text transform="translate(1457.4042 1080.5465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">Accept!(box)</tspan>
+        </text>
+      </g>
+      <g id="Line_98">
+        <line x1="1422" y1="1089" x2="1341.9" y2="1089" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_99">
+        <rect x="1314.3394" y="1089" width="18" height="63" fill="white"/>
+        <rect x="1314.3394" y="1089" width="18" height="63" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_100">
+        <rect x="1206" y="1152" width="18" height="18" fill="white"/>
+        <rect x="1206" y="1152" width="18" height="18" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_102">
+        <line x1="1314" y1="1152" x2="1233.9" y2="1152" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_101">
+        <text transform="translate(1240.1518 1152.5465)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">Passed!(box)</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="549 854 371 101" width="371" height="101">
+  <defs>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="532.22656" cap-height="719.7266" ascent="770.0195" descent="-229.98047" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Helvetica-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-05-24 06:43:19 +0000</dc:date>
+  </metadata>
+  <g id="REDIS_server" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none">
+    <title>REDIS server</title>
+    <g id="REDIS_server: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_56">
+        <g id="Group_2">
+          <title>Component</title>
+          <g id="Graphic_4">
+            <path d="M 612.5 855 L 809.5 855 C 812.2614 855 814.5 857.2386 814.5 860 L 814.5 949 C 814.5 951.7614 812.2614 954 809.5 954 L 612.5 954 C 609.7386 954 607.5 951.7614 607.5 949 L 607.5 860 C 607.5 857.2386 609.7386 855 612.5 855 Z" fill="white" fill-opacity=".5"/>
+            <path d="M 612.5 855 L 809.5 855 C 812.2614 855 814.5 857.2386 814.5 860 L 814.5 949 C 814.5 951.7614 812.2614 954 809.5 954 L 612.5 954 C 609.7386 954 607.5 951.7614 607.5 949 L 607.5 860 C 607.5 857.2386 609.7386 855 612.5 855 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <clipPath id="clip_path">
+              <path d="M 5 0 L 202 0 C 204.76142 0 207 2.2385763 207 5 L 207 94 C 207 96.76142 204.76142 99 202 99 L 5 99 C 2.2385763 99 0 96.76142 0 94 L 0 5 C 0 2.2385763 2.2385763 0 5 0 Z" fill="white" fill-opacity=".5"/>
+            </clipPath>
+            <text clip-path="url(#clip_path)" transform="translate(610.5 858)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="62.478516" y="11">REDIS server</tspan>
+            </text>
+          </g>
+          <g id="Graphic_3">
+            <text transform="translate(799.5 855)" fill="black"/>
+          </g>
+        </g>
+        <g id="Group_5">
+          <title>Two-way interface</title>
+          <g id="Graphic_14">
+            <rect x="810.3333" y="886.5" width="9.000007" height="36" fill="white"/>
+            <rect x="810.3333" y="886.5" width="9.000007" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <text transform="translate(747.5911 897.5)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 16379</tspan>
+            </text>
+          </g>
+          <g id="Group_11">
+            <title>Required interface</title>
+            <g id="Graphic_13">
+              <path d="M 864.0833 909.5 C 862.1146 909.5 859.5833 910.9363 859.5833 913.75 C 859.5833 916.5637 861.9896 918 864.0833 918 C 861.9896 918 859.5833 916.5833 859.5833 913.75 C 859.5833 910.9167 862.1146 909.5 864.0833 909.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Line_12">
+              <line x1="819.3333" y1="913.5" x2="859.5833" y2="913.75" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_6">
+            <title>Provided interface</title>
+            <g id="Graphic_10">
+              <ellipse cx="864" cy="895.7226" rx="4.50000719055927" ry="4.55590790100094" fill="white"/>
+              <ellipse cx="864" cy="895.7226" rx="4.50000719055927" ry="4.55590790100094" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_9"/>
+            <g id="Line_8">
+              <line x1="859.5001" y1="895.7001" x2="819.3333" y2="895.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_7">
+              <text transform="translate(821.8826 878.5)" fill="black">
+                <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">REDIS cluster bus</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g id="Graphic_41">
+          <rect x="603" y="900" width="9.000007" height="9.000005" fill="white"/>
+          <rect x="603" y="900" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(614.25 897.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 6379</tspan>
+          </text>
+        </g>
+        <g id="Group_42">
+          <title>Provided interface</title>
+          <g id="Graphic_46">
+            <ellipse cx="557.91667" cy="904.7226" rx="4.5000071905593" ry="4.55590790100085" fill="white"/>
+            <ellipse cx="557.91667" cy="904.7226" rx="4.5000071905593" ry="4.55590790100085" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_45"/>
+          <g id="Line_44">
+            <line x1="562.41666" y1="904.7115" x2="603" y2="904.6118" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_43">
+            <text transform="translate(560.9681 886.7912)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">RESP</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

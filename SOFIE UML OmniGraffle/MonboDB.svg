@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="244 625 648 366" width="648" height="366">
+  <defs>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="532.22656" cap-height="719.7266" ascent="770.0195" descent="-229.98047" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Helvetica-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-05-24 06:43:19 +0000</dc:date>
+  </metadata>
+  <g id="MonboDB" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none">
+    <title>MonboDB</title>
+    <g id="MonboDB: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_24">
+        <title>Component</title>
+        <g id="Graphic_26">
+          <path d="M 320 755.8882 L 517 755.8882 C 519.7614 755.8882 522 758.1268 522 760.8882 L 522 849.8882 C 522 852.6496 519.7614 854.8882 517 854.8882 L 320 854.8882 C 317.23857 854.8882 315 852.6496 315 849.8882 L 315 760.8882 C 315 758.1268 317.23857 755.8882 320 755.8882 Z" fill="white" fill-opacity=".5"/>
+          <path d="M 320 755.8882 L 517 755.8882 C 519.7614 755.8882 522 758.1268 522 760.8882 L 522 849.8882 C 522 852.6496 519.7614 854.8882 517 854.8882 L 320 854.8882 C 317.23857 854.8882 315 852.6496 315 849.8882 L 315 760.8882 C 315 758.1268 317.23857 755.8882 320 755.8882 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <clipPath id="clip_path">
+            <path d="M 5 0 L 202 0 C 204.76142 0 207 2.2385763 207 5 L 207 94 C 207 96.76142 204.76142 99 202 99 L 5 99 C 2.2385763 99 0 96.76142 0 94 L 0 5 C 0 2.2385763 2.2385763 0 5 0 Z" fill="white" fill-opacity=".5"/>
+          </clipPath>
+          <text clip-path="url(#clip_path)" transform="translate(318 758.8882)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="72.17578" y="11">MongoDB</tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="54.16992" y="25">router (mongos)</tspan>
+          </text>
+        </g>
+        <g id="Graphic_25">
+          <text transform="translate(507 755.8882)" fill="black"/>
+        </g>
+      </g>
+      <g id="Graphic_13">
+        <rect x="310.5" y="800.8882" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="310.5" y="800.8882" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(321.75 798.3882)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 27017</tspan>
+        </text>
+      </g>
+      <g id="Group_8">
+        <title>Provided interface</title>
+        <g id="Graphic_12">
+          <ellipse cx="265.5" cy="787.4441" rx="4.50000719055922" ry="4.55590790100091" fill="white"/>
+          <ellipse cx="265.5" cy="787.4441" rx="4.50000719055922" ry="4.55590790100091" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_11"/>
+        <g id="Line_10">
+          <line x1="269.6845" y1="789.1231" x2="310.5" y2="805.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_9">
+          <text transform="translate(254.06623 765.9557)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">MongoDB</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_50">
+        <title>Provided interface</title>
+        <g id="Graphic_54">
+          <ellipse cx="265.5" cy="819.0559" rx="4.50000719055922" ry="4.55590790100094" fill="white"/>
+          <ellipse cx="265.5" cy="819.0559" rx="4.50000719055922" ry="4.55590790100094" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_52">
+          <line x1="269.81566" y1="817.7622" x2="310.5" y2="806.6206" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_51">
+          <text transform="translate(256.52932 824.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TLS</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_68">
+        <rect x="391.5" y="850.5" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="391.5" y="850.5" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(365.7539 836.95)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 28017</tspan>
+        </text>
+      </g>
+      <g id="Group_69">
+        <title>Provided interface</title>
+        <g id="Graphic_72">
+          <ellipse cx="396" cy="891.0559" rx="4.50000719055919" ry="4.55590790100088" fill="white"/>
+          <ellipse cx="396" cy="891.0559" rx="4.50000719055919" ry="4.55590790100088" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_71">
+          <line x1="396" y1="886.5" x2="396" y2="859.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_70">
+          <text transform="translate(401.91183 879.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">REST API</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_79">
+        <rect x="517.5" y="796.3882" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="517.5" y="796.3882" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_80">
+        <rect x="517.5" y="823.3882" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="517.5" y="823.3882" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_77">
+        <g id="Group_27">
+          <title>Component</title>
+          <g id="Graphic_29">
+            <path d="M 689 693 L 886 693 C 888.7614 693 891 695.2386 891 698 L 891 787 C 891 789.7614 888.7614 792 886 792 L 689 792 C 686.2386 792 684 789.7614 684 787 L 684 698 C 684 695.2386 686.2386 693 689 693 Z" fill="white" fill-opacity=".5"/>
+            <path d="M 689 693 L 886 693 C 888.7614 693 891 695.2386 891 698 L 891 787 C 891 789.7614 888.7614 792 886 792 L 689 792 C 686.2386 792 684 789.7614 684 787 L 684 698 C 684 695.2386 686.2386 693 689 693 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <clipPath id="clip_path_2">
+              <path d="M 5 0 L 202 0 C 204.76142 0 207 2.2385763 207 5 L 207 94 C 207 96.76142 204.76142 99 202 99 L 5 99 C 2.2385763 99 0 96.76142 0 94 L 0 5 C 0 2.2385763 2.2385763 0 5 0 Z" fill="white" fill-opacity=".5"/>
+            </clipPath>
+            <text clip-path="url(#clip_path_2)" transform="translate(687 696)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="31.166016" y="11">MongoDB Config Server</tspan>
+              <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="67.13965" y="25">&lt;&lt;replica&gt;&gt;</tspan>
+            </text>
+          </g>
+          <g id="Graphic_28">
+            <text transform="translate(876 693)" fill="black"/>
+          </g>
+        </g>
+        <g id="Graphic_30">
+          <rect x="679.5" y="738" width="9.000007" height="9.000005" fill="white"/>
+          <rect x="679.5" y="738" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(690.75 735.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 27019</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_60">
+        <g id="Graphic_38">
+          <path d="M 689 850.5 L 886 850.5 C 888.7614 850.5 891 852.7386 891 855.5 L 891 944.5 C 891 947.2614 888.7614 949.5 886 949.5 L 689 949.5 C 686.2386 949.5 684 947.2614 684 944.5 L 684 855.5 C 684 852.7386 686.2386 850.5 689 850.5 Z" fill="white" fill-opacity=".5"/>
+          <path d="M 689 850.5 L 886 850.5 C 888.7614 850.5 891 852.7386 891 855.5 L 891 944.5 C 891 947.2614 888.7614 949.5 886 949.5 L 689 949.5 C 686.2386 949.5 684 947.2614 684 944.5 L 684 855.5 C 684 852.7386 686.2386 850.5 689 850.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <clipPath id="clip_path_3">
+            <path d="M 5 0 L 202 0 C 204.76142 0 207 2.2385763 207 5 L 207 94 C 207 96.76142 204.76142 99 202 99 L 5 99 C 2.2385763 99 0 96.76142 0 94 L 0 5 C 0 2.2385763 2.2385763 0 5 0 Z" fill="white" fill-opacity=".5"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_3)" transform="translate(687 853.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="24.811523" y="11">MongoDB database server</tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="49.13379" y="25">&lt;&lt;shard/replica&gt;&gt;</tspan>
+          </text>
+        </g>
+        <g id="Graphic_37">
+          <text transform="translate(855.2252 850.5)" fill="black"/>
+        </g>
+      </g>
+      <g id="Graphic_39">
+        <rect x="679.5" y="895.5" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="679.5" y="895.5" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(690.75 893)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 27018 (or 27017)</tspan>
+        </text>
+      </g>
+      <g id="Group_109">
+        <g id="Graphic_45">
+          <rect x="333" y="850.6118" width="9.000007" height="9.000005" fill="white"/>
+          <rect x="333" y="850.6118" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_46">
+          <title>Required interface</title>
+          <g id="Graphic_49">
+            <path d="M 342 891.1118 C 342 889.143 340.56366 886.6118 337.75 886.6118 C 334.93635 886.6118 333.5 889.018 333.5 891.1118 C 333.5 889.018 334.91667 886.6118 337.75 886.6118 C 340.58334 886.6118 342 889.143 342 891.1118 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_48">
+            <text transform="translate(345.00104 879.412)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">syslog</tspan>
+            </text>
+          </g>
+          <g id="Line_47">
+            <line x1="337.5357" y1="859.6118" x2="337.75" y2="886.6118" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_59">
+        <rect x="468" y="850.5" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="468" y="850.5" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_65">
+        <g id="Graphic_67">
+          <path d="M 374 625.5 L 463 625.5 C 465.7614 625.5 468 627.7386 468 630.5 L 468 692.5 C 468 695.2614 465.7614 697.5 463 697.5 L 374 697.5 C 371.23858 697.5 369 695.2614 369 692.5 L 369 630.5 C 369 627.7386 371.23858 625.5 374 625.5 Z" fill="white" fill-opacity=".5"/>
+          <path d="M 374 625.5 L 463 625.5 C 465.7614 625.5 468 627.7386 468 630.5 L 468 692.5 C 468 695.2614 465.7614 697.5 463 697.5 L 374 697.5 C 371.23858 697.5 369 695.2614 369 692.5 L 369 630.5 C 369 627.7386 371.23858 625.5 374 625.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <clipPath id="clip_path_4">
+            <path d="M 5 0 L 94 0 C 96.76142 0 99 2.2385763 99 5 L 99 67 C 99 69.76142 96.76142 72 94 72 L 5 72 C 2.2385763 72 0 69.76142 0 67 L 0 5 C 0 2.2385763 2.2385763 0 5 0 Z" fill="white" fill-opacity=".5"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_4)" transform="translate(372 628.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="20.487305" y="11">X.509 CA</tspan>
+          </text>
+        </g>
+        <g id="Graphic_66">
+          <text transform="translate(453 625.5)" fill="black"/>
+        </g>
+      </g>
+      <g id="Graphic_81">
+        <rect x="679.5" y="868.5" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="679.5" y="868.5" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_90">
+        <title>Assembly</title>
+        <g id="Line_95">
+          <line x1="616.5" y1="742.7087" x2="679.5" y2="742.5139" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_92">
+          <g id="Graphic_94">
+            <ellipse cx="612" cy="742.7226" rx="4.50000719055924" ry="4.55590790100091" fill="white"/>
+            <ellipse cx="612" cy="742.7226" rx="4.50000719055924" ry="4.55590790100091" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_93">
+            <path d="M 612.0833 733.5 C 608.1458 733.5 603.0833 736.5417 603.0833 742.5 C 603.08336 748.4583 607.8958 751.5 612.0833 751.5 C 607.8958 751.5 603.0833 748.5 603.0833 742.5 C 603.0833 736.5 608.1458 733.5 612.0833 733.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Line_91">
+          <line x1="526.5" y1="797.64925" x2="603.08336" y2="742.5272" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_96">
+        <title>Assembly</title>
+        <g id="Line_101">
+          <line x1="616.5" y1="900.2087" x2="679.5" y2="900.0139" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_98">
+          <g id="Graphic_100">
+            <ellipse cx="612" cy="900.2226" rx="4.50000719055927" ry="4.55590790100085" fill="white"/>
+            <ellipse cx="612" cy="900.2226" rx="4.50000719055927" ry="4.55590790100085" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_99">
+            <path d="M 612.0833 891 C 608.1458 891 603.0833 894.0417 603.0833 900 C 603.08336 905.9583 607.8958 909 612.0833 909 C 607.8958 909 603.0833 906 603.0833 900 C 603.0833 894 608.1458 891 612.0833 891 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Line_97">
+          <line x1="526.5" y1="831.8918" x2="603.0834" y2="900.0272" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_102">
+        <title>Assembly</title>
+        <g id="Line_107">
+          <line x1="616.90356" y1="775.2535" x2="679.5" y2="744.6967" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_104">
+          <g id="Graphic_106">
+            <path d="M 609.1334 774.6115 C 610.6157 772.5975 613.46485 772.1462 615.49705 773.6036 C 617.52925 775.061 617.975 777.8752 616.4926 779.8892 C 615.0102 781.9033 612.1611 782.3545 610.1289 780.8971 C 608.0967 779.43975 607.651 776.6256 609.1334 774.6115" fill="white"/>
+            <path d="M 609.1334 774.6115 C 610.6157 772.5975 613.46485 772.1462 615.49705 773.6036 C 617.52925 775.061 617.975 777.8752 616.4926 779.8892 C 615.0102 781.9033 612.1611 782.3545 610.1289 780.8971 C 608.0967 779.43975 607.651 776.6256 609.1334 774.6115" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_105">
+            <path d="M 603.6909 778.6108 C 604.3069 782.4998 608.10305 787.0242 613.988 786.0921 C 619.873 785.16 622.1244 779.9309 621.4693 775.795 C 622.1244 779.9309 619.91415 785.1535 613.988 786.0921 C 608.0619 787.0307 604.3069 782.4998 603.6909 778.6108 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Line_103">
+          <line x1="680.3764" y1="868.5" x2="614.0149" y2="786.0878" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_111">
+        <g id="Graphic_116">
+          <rect x="706.5" y="945" width="9.000007" height="9.000005" fill="white"/>
+          <rect x="706.5" y="945" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_112">
+          <title>Required interface</title>
+          <g id="Graphic_115">
+            <path d="M 715.5 985.5 C 715.5 983.5312 714.0637 981 711.25 981 C 708.43635 981 707 983.4062 707 985.5 C 707 983.4062 708.4167 981 711.25 981 C 714.0833 981 715.5 983.5312 715.5 985.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_114">
+            <text transform="translate(718.4955 973.4351)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">syslog</tspan>
+            </text>
+          </g>
+          <g id="Line_113">
+            <line x1="710.6439" y1="954" x2="711.25" y2="981" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_117">
+        <g id="Graphic_122">
+          <rect x="706.5" y="787.5" width="9.000007" height="9.000005" fill="white"/>
+          <rect x="706.5" y="787.5" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_118">
+          <title>Required interface</title>
+          <g id="Graphic_121">
+            <path d="M 715.5 828 C 715.5 826.0312 714.0637 823.5 711.25 823.5 C 708.43635 823.5 707 825.9062 707 828 C 707 825.9062 708.4167 823.5 711.25 823.5 C 714.0833 823.5 715.5 826.0312 715.5 828 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_120">
+            <text transform="translate(717.66115 816.5063)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">syslog</tspan>
+            </text>
+          </g>
+          <g id="Line_119">
+            <line x1="711.257" y1="796.5" x2="711.25" y2="823.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_123">
+        <title>Required interface</title>
+        <g id="Graphic_126">
+          <path d="M 476.5 891 C 476.5 889.0312 475.06366 886.5 472.25 886.5 C 469.43634 886.5 468 888.9063 468 891 C 468 888.9063 469.41667 886.5 472.25 886.5 C 475.08333 886.5 476.5 889.0312 476.5 891 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_125">
+          <text transform="translate(483.16024 879.7288)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">LDAP</tspan>
+          </text>
+        </g>
+        <g id="Line_124">
+          <line x1="472.4643" y1="859.5" x2="472.25" y2="886.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="1925 1822 1064 749" width="1064" height="749">
+  <defs>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="532.22656" cap-height="719.7266" ascent="770.0195" descent="-229.98047" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Helvetica-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="10" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 0 M 0 -3 L 8 0 L 0 3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M -8 0 L 0 0 M 0 3 L -8 0 L 0 -3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-05-24 06:43:19 +0000</dc:date>
+  </metadata>
+  <g id="Kaa_IoT_data_series_management" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none">
+    <title>Kaa IoT data series management</title>
+    <g id="Kaa_IoT_data_series_management: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_30">
+        <title>Component</title>
+        <g id="Graphic_32">
+          <path d="M 2133.5 1822.5 L 2276.5 1822.5 C 2279.2614 1822.5 2281.5 1824.7386 2281.5 1827.5 L 2281.5 1969.8882 C 2281.5 1972.6496 2279.2614 1974.8882 2276.5 1974.8882 L 2133.5 1974.8882 C 2130.7386 1974.8882 2128.5 1972.6496 2128.5 1969.8882 L 2128.5 1827.5 C 2128.5 1824.7386 2130.7386 1822.5 2133.5 1822.5 Z" fill="white" fill-opacity=".5"/>
+          <path d="M 2133.5 1822.5 L 2276.5 1822.5 C 2279.2614 1822.5 2281.5 1824.7386 2281.5 1827.5 L 2281.5 1969.8882 C 2281.5 1972.6496 2279.2614 1974.8882 2276.5 1974.8882 L 2133.5 1974.8882 C 2130.7386 1974.8882 2128.5 1972.6496 2128.5 1969.8882 L 2128.5 1827.5 C 2128.5 1824.7386 2130.7386 1822.5 2133.5 1822.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <clipPath id="clip_path">
+            <path d="M 5 0 L 148 0 C 150.76142 0 153 2.2385763 153 5 L 153 147.3882 C 153 150.14962 150.76142 152.3882 148 152.3882 L 5 152.3882 C 2.2385763 152.3882 0 150.14962 0 147.3882 L 0 5 C 0 2.2385763 2.2385763 0 5 0 Z" fill="white" fill-opacity=".5"/>
+          </clipPath>
+          <text clip-path="url(#clip_path)" transform="translate(2131.5 1825.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="36.492188" y="11">Kaa Protocol </tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="9.834961" y="25">Communication (KPC)</tspan>
+          </text>
+        </g>
+        <g id="Graphic_31">
+          <text transform="translate(2266.5 1822.5)" fill="black"/>
+        </g>
+      </g>
+      <g id="Graphic_29">
+        <rect x="2241.1667" y="1970.3882" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="2241.1667" y="1970.3882" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2218.7575 1956.8382)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 8080</tspan>
+        </text>
+      </g>
+      <g id="Group_25">
+        <title>Provided interface</title>
+        <g id="Graphic_28">
+          <ellipse cx="2245.6667" cy="2015.444" rx="4.50000719055897" ry="4.55590790100088" fill="white"/>
+          <ellipse cx="2245.6667" cy="2015.444" rx="4.50000719055897" ry="4.55590790100088" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_27">
+          <line x1="2245.6667" y1="2010.8882" x2="2245.6667" y2="1979.3882" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_26">
+          <text transform="translate(2256.0785 2003.8882)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">Monitoring</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_24">
+        <rect x="2124.1667" y="1880.3882" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="2124.1667" y="1880.3882" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2135.4167 1877.8882)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 1883</tspan>
+        </text>
+      </g>
+      <g id="Group_20">
+        <title>Provided interface</title>
+        <g id="Graphic_23">
+          <ellipse cx="2083.5" cy="1884.944" rx="4.50000719055933" ry="4.5559079010007" fill="white"/>
+          <ellipse cx="2083.5" cy="1884.944" rx="4.50000719055933" ry="4.5559079010007" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_22">
+          <line x1="2088" y1="1884.9385" x2="2124.1667" y2="1884.8938" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_21">
+          <text transform="translate(2076.3192 1867.0182)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">MQTT</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_19">
+        <rect x="2124.1667" y="1902.8882" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="2124.1667" y="1902.8882" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2135.4167 1900.3882)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 8883</tspan>
+        </text>
+      </g>
+      <g id="Group_15">
+        <title>Provided interface</title>
+        <g id="Graphic_18">
+          <ellipse cx="2083.6667" cy="1907.3323" rx="4.50000719055909" ry="4.55590790100082" fill="white"/>
+          <ellipse cx="2083.6667" cy="1907.3323" rx="4.50000719055909" ry="4.55590790100082" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_17">
+          <line x1="2088.1667" y1="1907.3379" x2="2124.1667" y2="1907.3826" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_16">
+          <text transform="translate(2051.171 1889.4176)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TLS:MQTT</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_14">
+        <rect x="2124.1667" y="1925.3882" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="2124.1667" y="1925.3882" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2135.4167 1922.8882)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 9001</tspan>
+        </text>
+      </g>
+      <g id="Group_10">
+        <title>Provided interface</title>
+        <g id="Graphic_13">
+          <ellipse cx="2083.5" cy="1929.944" rx="4.50000719055933" ry="4.55590790100082" fill="white"/>
+          <ellipse cx="2083.5" cy="1929.944" rx="4.50000719055933" ry="4.55590790100082" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_12">
+          <line x1="2088" y1="1929.9385" x2="2124.1667" y2="1929.8938" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_11">
+          <text transform="translate(2053.655 1912.0182)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">WS:MQTT</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_2">
+        <g id="Graphic_9">
+          <rect x="2277" y="1876.5" width="9.000007" height="54" fill="white"/>
+          <rect x="2277" y="1876.5" width="9.000007" height="54" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_6">
+          <title>Required interface</title>
+          <g id="Graphic_8">
+            <path d="M 2330.75 1913 C 2328.7812 1913 2326.25 1914.4363 2326.25 1917.25 C 2326.25 1920.0637 2328.6562 1921.5 2330.75 1921.5 C 2328.6562 1921.5 2326.25 1920.0833 2326.25 1917.25 C 2326.25 1914.4167 2328.7812 1913 2330.75 1913 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_7">
+            <line x1="2286" y1="1917" x2="2326.5" y2="1917" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_5">
+          <ellipse cx="2326.5" cy="1889.944" rx="4.50000719055921" ry="4.55590790100088" fill="white"/>
+          <ellipse cx="2326.5" cy="1889.944" rx="4.50000719055921" ry="4.55590790100088" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_4">
+          <line x1="2322" y1="1889.9503" x2="2286" y2="1890" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_3">
+          <text transform="translate(2298.3494 1895.4503)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">NATS</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_33">
+        <g id="Group_39">
+          <title>Component</title>
+          <g id="Graphic_41">
+            <path d="M 2660 2106 L 2857 2106 C 2859.7614 2106 2862 2108.2386 2862 2111 L 2862 2200 C 2862 2202.7614 2859.7614 2205 2857 2205 L 2660 2205 C 2657.2386 2205 2655 2202.7614 2655 2200 L 2655 2111 C 2655 2108.2386 2657.2386 2106 2660 2106 Z" fill="white" fill-opacity=".5"/>
+            <path d="M 2660 2106 L 2857 2106 C 2859.7614 2106 2862 2108.2386 2862 2111 L 2862 2200 C 2862 2202.7614 2859.7614 2205 2857 2205 L 2660 2205 C 2657.2386 2205 2655 2202.7614 2655 2200 L 2655 2111 C 2655 2108.2386 2657.2386 2106 2660 2106 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <clipPath id="clip_path_2">
+              <path d="M 5 0 L 202 0 C 204.76142 0 207 2.2385763 207 5 L 207 94 C 207 96.76142 204.76142 99 202 99 L 5 99 C 2.2385763 99 0 96.76142 0 94 L 0 5 C 0 2.2385763 2.2385763 0 5 0 Z" fill="white" fill-opacity=".5"/>
+            </clipPath>
+            <text clip-path="url(#clip_path_2)" transform="translate(2658 2109)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="64.924805" y="11">NATS server</tspan>
+            </text>
+          </g>
+          <g id="Graphic_40">
+            <text transform="translate(2847 2106)" fill="black"/>
+          </g>
+        </g>
+        <g id="Graphic_38">
+          <rect x="2650.5" y="2151" width="9.000007" height="9.000005" fill="white"/>
+          <rect x="2650.5" y="2151" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(2661.75 2148.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 4222</tspan>
+          </text>
+        </g>
+        <g id="Group_34">
+          <title>Provided interface</title>
+          <g id="Graphic_37">
+            <ellipse cx="2605.4167" cy="2155.7226" rx="4.50000719055909" ry="4.55590790100094" fill="white"/>
+            <ellipse cx="2605.4167" cy="2155.7226" rx="4.50000719055909" ry="4.55590790100094" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_36"/>
+          <g id="Line_35">
+            <line x1="2609.9167" y1="2155.7115" x2="2650.5" y2="2155.6118" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_104">
+        <title>Component</title>
+        <g id="Graphic_106">
+          <path d="M 2133.5 2101.5 L 2276.5 2101.5 C 2279.2614 2101.5 2281.5 2103.7386 2281.5 2106.5 L 2281.5 2227 C 2281.5 2229.7614 2279.2614 2232 2276.5 2232 L 2133.5 2232 C 2130.7386 2232 2128.5 2229.7614 2128.5 2227 L 2128.5 2106.5 C 2128.5 2103.7386 2130.7386 2101.5 2133.5 2101.5 Z" fill="white" fill-opacity=".5"/>
+          <path d="M 2133.5 2101.5 L 2276.5 2101.5 C 2279.2614 2101.5 2281.5 2103.7386 2281.5 2106.5 L 2281.5 2227 C 2281.5 2229.7614 2279.2614 2232 2276.5 2232 L 2133.5 2232 C 2130.7386 2232 2128.5 2229.7614 2128.5 2227 L 2128.5 2106.5 C 2128.5 2103.7386 2130.7386 2101.5 2133.5 2101.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <clipPath id="clip_path_3">
+            <path d="M 5 0 L 148 0 C 150.76142 0 153 2.2385763 153 5 L 153 125.5 C 153 128.26142 150.76142 130.5 148 130.5 L 5 130.5 C 2.2385763 130.5 0 128.26142 0 125.5 L 0 5 C 0 2.2385763 2.2385763 0 5 0 Z" fill="white" fill-opacity=".5"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_3)" transform="translate(2131.5 2104.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="29.82715" y="11">Data Collection </tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="26.496094" y="25">Extension (DCX)</tspan>
+          </text>
+        </g>
+        <g id="Graphic_105">
+          <text transform="translate(2266.5 2101.5)" fill="black"/>
+        </g>
+      </g>
+      <g id="Group_96">
+        <g id="Graphic_103">
+          <rect x="2277" y="2151" width="9.000007" height="54" fill="white"/>
+          <rect x="2277" y="2151" width="9.000007" height="54" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_100">
+          <title>Required interface</title>
+          <g id="Graphic_102">
+            <path d="M 2330.75 2187.5 C 2328.7812 2187.5 2326.25 2188.9363 2326.25 2191.75 C 2326.25 2194.5637 2328.6562 2196 2330.75 2196 C 2328.6562 2196 2326.25 2194.5833 2326.25 2191.75 C 2326.25 2188.9167 2328.7812 2187.5 2330.75 2187.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_101">
+            <line x1="2286" y1="2191.5" x2="2326.5" y2="2191.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_99">
+          <ellipse cx="2326.5" cy="2164.444" rx="4.50000719055921" ry="4.55590790100094" fill="white"/>
+          <ellipse cx="2326.5" cy="2164.444" rx="4.50000719055921" ry="4.55590790100094" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_98">
+          <line x1="2322.0012" y1="2164.5497" x2="2286" y2="2164.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_97">
+          <text transform="translate(2302.815 2174.556)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">NATS</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_95">
+        <text transform="translate(2447.0758 2134.1885)" fill="black">
+          <tspan font-family="Helvetica" font-size="10" font-weight="400" fill="black" x="0" y="10">«pubsub»</tspan>
+        </text>
+      </g>
+      <g id="Line_94">
+        <title>Publish</title>
+        <path d="M 2326.5 2149.4882 L 2326.5 2134.5 L 2515.5 2134.5 L 2515.5 2025.9" marker-end="url(#StickArrow_Marker)" marker-start="url(#StickArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_93">
+        <text transform="translate(2349.5 2115.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">2/DCP over 4/ESP</tspan>
+        </text>
+      </g>
+      <g id="Graphic_92">
+        <text transform="translate(2450.407 2164.1326)" fill="black">
+          <tspan font-family="Helvetica" font-size="10" font-weight="400" fill="black" x="0" y="10">«publish»</tspan>
+        </text>
+      </g>
+      <g id="Line_91">
+        <title>Publish</title>
+        <path d="M 2331.5 2164.444 L 2515.5 2164.444 L 2515.5 2249.1" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_90">
+        <text transform="translate(2367.5 2151.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">13/DSTP</tspan>
+        </text>
+      </g>
+      <g id="Group_84">
+        <g id="Graphic_89">
+          <rect x="2241" y="2227.3882" width="9.000007" height="9.000005" fill="white"/>
+          <rect x="2241" y="2227.3882" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(2218.5908 2213.8382)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 8080</tspan>
+          </text>
+        </g>
+        <g id="Group_85">
+          <title>Provided interface</title>
+          <g id="Graphic_88">
+            <ellipse cx="2245.5" cy="2272.444" rx="4.50000719055933" ry="4.55590790100094" fill="white"/>
+            <ellipse cx="2245.5" cy="2272.444" rx="4.50000719055933" ry="4.55590790100094" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_87">
+            <line x1="2245.5" y1="2267.8882" x2="2245.5" y2="2236.3882" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_86">
+            <text transform="translate(2255.9118 2260.8882)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">Monitoring</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_81">
+        <title>Component</title>
+        <g id="Graphic_83">
+          <path d="M 2133.5 2349 L 2276.5 2349 C 2279.2614 2349 2281.5 2351.2386 2281.5 2354 L 2281.5 2474.5 C 2281.5 2477.2614 2279.2614 2479.5 2276.5 2479.5 L 2133.5 2479.5 C 2130.7386 2479.5 2128.5 2477.2614 2128.5 2474.5 L 2128.5 2354 C 2128.5 2351.2386 2130.7386 2349 2133.5 2349 Z" fill="white" fill-opacity=".5"/>
+          <path d="M 2133.5 2349 L 2276.5 2349 C 2279.2614 2349 2281.5 2351.2386 2281.5 2354 L 2281.5 2474.5 C 2281.5 2477.2614 2279.2614 2479.5 2276.5 2479.5 L 2133.5 2479.5 C 2130.7386 2479.5 2128.5 2477.2614 2128.5 2474.5 L 2128.5 2354 C 2128.5 2351.2386 2130.7386 2349 2133.5 2349 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <clipPath id="clip_path_4">
+            <path d="M 5 0 L 148 0 C 150.76142 0 153 2.2385763 153 5 L 153 125.5 C 153 128.26142 150.76142 130.5 148 130.5 L 5 130.5 C 2.2385763 130.5 0 128.26142 0 125.5 L 0 5 C 0 2.2385763 2.2385763 0 5 0 Z" fill="white" fill-opacity=".5"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_4)" transform="translate(2131.5 2352)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="12.260742" y="11">Endpoint Time Series </tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="53.83301" y="25">(EPTS)</tspan>
+          </text>
+        </g>
+        <g id="Graphic_82">
+          <text transform="translate(2266.5 2349)" fill="black"/>
+        </g>
+      </g>
+      <g id="Group_73">
+        <g id="Graphic_80">
+          <rect x="2277" y="2371.5" width="9.000007" height="54" fill="white"/>
+          <rect x="2277" y="2371.5" width="9.000007" height="54" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_77">
+          <title>Required interface</title>
+          <g id="Graphic_79">
+            <path d="M 2330.75 2408 C 2328.7812 2408 2326.25 2409.4363 2326.25 2412.25 C 2326.25 2415.0637 2328.6562 2416.5 2330.75 2416.5 C 2328.6562 2416.5 2326.25 2415.0833 2326.25 2412.25 C 2326.25 2409.4167 2328.7812 2408 2330.75 2408 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_78">
+            <line x1="2286" y1="2412" x2="2326.5" y2="2412" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_76">
+          <ellipse cx="2326.5" cy="2384.944" rx="4.50000719055921" ry="4.55590790100118" fill="white"/>
+          <ellipse cx="2326.5" cy="2384.944" rx="4.50000719055921" ry="4.55590790100118" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_75">
+          <line x1="2322.0012" y1="2385.0497" x2="2286" y2="2385" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_74">
+          <text transform="translate(2302.815 2395.056)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">NATS</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_72">
+        <rect x="2277" y="2448" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="2277" y="2448" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_68">
+        <title>Required interface</title>
+        <g id="Graphic_71">
+          <path d="M 2331 2448 C 2329.0312 2448 2326.5 2449.4363 2326.5 2452.25 C 2326.5 2455.0637 2328.9062 2456.5 2331 2456.5 C 2328.9062 2456.5 2326.5 2455.0833 2326.5 2452.25 C 2326.5 2449.4167 2329.0312 2448 2331 2448 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_70">
+          <text transform="translate(2295.1792 2433.5798)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">InfluxDB REST API</tspan>
+          </text>
+        </g>
+        <g id="Line_69">
+          <line x1="2286" y1="2452.475" x2="2326.5" y2="2452.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Graphic_67">
+        <text transform="translate(2443.1823 2382.944)" fill="black">
+          <tspan font-family="Helvetica" font-size="10" font-weight="400" fill="black" x="0" y="10">«subscribe»</tspan>
+        </text>
+      </g>
+      <g id="Line_66">
+        <title>Flow</title>
+        <path d="M 2515.5 2286 L 2515.5 2384.944 L 2341.4 2384.944" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_65">
+        <text transform="translate(2354 2372)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">13/DSTP</tspan>
+        </text>
+      </g>
+      <g id="Graphic_64">
+        <text transform="translate(2210.0492 2314.1885)" fill="black">
+          <tspan font-family="Helvetica" font-size="10" font-weight="400" fill="black" x="0" y="10">«pubsub»</tspan>
+        </text>
+      </g>
+      <g id="Line_63">
+        <title>Publish</title>
+        <path d="M 2326.5 2369.9882 L 2326.5 2314.5 L 2084.4 2314.5" marker-end="url(#StickArrow_Marker)" marker-start="url(#StickArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_62">
+        <text transform="translate(2075 2295.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">14/TSTP</tspan>
+        </text>
+      </g>
+      <g id="Graphic_61">
+        <rect x="2124" y="2400.5" width="9.000007" height="27" fill="white"/>
+        <rect x="2124" y="2400.5" width="9.000007" height="27" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2135.25 2407)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 80 / 30740</tspan>
+        </text>
+      </g>
+      <g id="Group_57">
+        <title>Provided interface</title>
+        <g id="Graphic_60">
+          <ellipse cx="2077.3208" cy="2396.056" rx="4.50000719055921" ry="4.55590790100118" fill="white"/>
+          <ellipse cx="2077.3208" cy="2396.056" rx="4.50000719055921" ry="4.55590790100118" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_59">
+          <line x1="2081.574" y1="2397.547" x2="2124" y2="2412.4222" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_58">
+          <text transform="translate(1925.2734 2374.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">KAA REST:/time-series API</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_53">
+        <title>Provided interface</title>
+        <g id="Graphic_56">
+          <ellipse cx="2077.3208" cy="2423.056" rx="4.50000719055921" ry="4.55590790100106" fill="white"/>
+          <ellipse cx="2077.3208" cy="2423.056" rx="4.50000719055921" ry="4.55590790100106" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_55">
+          <line x1="2081.754" y1="2422.2715" x2="2124" y2="2414.7963" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_54">
+          <text transform="translate(2029.7837 2430.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">UMA OAuth2</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_52">
+        <rect x="2171.8208" y="2475" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="2171.8208" y="2475" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2146.0747 2461.45)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 10500</tspan>
+        </text>
+      </g>
+      <g id="Group_48">
+        <title>Provided interface</title>
+        <g id="Graphic_51">
+          <ellipse cx="2176.3208" cy="2520.056" rx="4.50000719055933" ry="4.55590790100094" fill="white"/>
+          <ellipse cx="2176.3208" cy="2520.056" rx="4.50000719055933" ry="4.55590790100094" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_50">
+          <line x1="2176.3208" y1="2515.5" x2="2176.3208" y2="2484" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_49">
+          <text transform="translate(2186.7326 2508.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">JMX</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_42">
+        <g id="Graphic_47">
+          <rect x="2239.3208" y="2475" width="9.000007" height="9.000005" fill="white"/>
+          <rect x="2239.3208" y="2475" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(2216.9116 2461.45)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 8080</tspan>
+          </text>
+        </g>
+        <g id="Group_43">
+          <title>Provided interface</title>
+          <g id="Graphic_46">
+            <ellipse cx="2243.8208" cy="2520.056" rx="4.50000719055921" ry="4.55590790100094" fill="white"/>
+            <ellipse cx="2243.8208" cy="2520.056" rx="4.50000719055921" ry="4.55590790100094" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_45">
+            <line x1="2243.8208" y1="2515.5" x2="2243.8208" y2="2484" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_44">
+            <text transform="translate(2254.2326 2508.5)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">Monitoring</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_112">
+        <text transform="translate(2397.8782 2411.6885)" fill="black">
+          <tspan font-family="Helvetica" font-size="10" font-weight="400" fill="black" x="0" y="10">«TCP socket»</tspan>
+        </text>
+      </g>
+      <g id="Line_111">
+        <title>Flow</title>
+        <path d="M 2331 2412 L 2605.5 2412 L 2605.4167 2172.6785 L 2605.4167 2170.6785" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_110">
+        <text transform="translate(2396.155 2191.1885)" fill="black">
+          <tspan font-family="Helvetica" font-size="10" font-weight="400" fill="black" x="0" y="10">«TCP socket»</tspan>
+        </text>
+      </g>
+      <g id="Line_109">
+        <title>Flow</title>
+        <path d="M 2331 2191.5 L 2605.5 2191.5 L 2605.4515 2170.6784" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_108">
+        <text transform="translate(2423.5582 1916.6885)" fill="black">
+          <tspan font-family="Helvetica" font-size="10" font-weight="400" fill="black" x="0" y="10">«TCP socket»</tspan>
+        </text>
+      </g>
+      <g id="Line_107">
+        <title>Flow</title>
+        <path d="M 2331 1917 L 2605.5 1917 L 2605.422 2140.7667" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_113">
+        <rect x="2466" y="2259" width="99" height="27" fill="white"/>
+        <rect x="2466" y="2259" width="99" height="27" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="1"/>
+        <text transform="translate(2471 2265.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="20.157227" y="11">13/DTSP</tspan>
+        </text>
+      </g>
+      <g id="Graphic_114">
+        <rect x="2466" y="1989" width="99" height="27" fill="white"/>
+        <rect x="2466" y="1989" width="99" height="27" stroke="black" stroke-linecap="square" stroke-linejoin="miter" stroke-width="1"/>
+        <text transform="translate(2471 1995.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="26.828125" y="11">2/DCP</tspan>
+        </text>
+      </g>
+      <g id="Graphic_116">
+        <text transform="translate(2452.3528 1889.2948)" fill="black">
+          <tspan font-family="Helvetica" font-size="10" font-weight="400" fill="black" x="0" y="10">«pubsub»</tspan>
+        </text>
+      </g>
+      <g id="Line_115">
+        <title>Publish</title>
+        <path d="M 2341.4 1889.944 L 2343.4 1889.944 L 2515.5 1889.5 L 2515.5 1979.1" marker-end="url(#StickArrow_Marker)" marker-start="url(#StickArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_117">
+        <text transform="translate(2354 1872.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">2/DCP over 4/ESP</tspan>
+        </text>
+      </g>
+      <g id="Group_136">
+        <title>Component</title>
+        <g id="Graphic_138">
+          <path d="M 2734.921 2425.6118 L 2859.921 2425.6118 C 2862.6823 2425.6118 2864.921 2427.8504 2864.921 2430.6118 L 2864.921 2564.6118 C 2864.921 2567.3732 2862.6823 2569.6118 2859.921 2569.6118 L 2734.921 2569.6118 C 2732.1595 2569.6118 2729.921 2567.3732 2729.921 2564.6118 L 2729.921 2430.6118 C 2729.921 2427.8504 2732.1595 2425.6118 2734.921 2425.6118 Z" fill="white" fill-opacity=".5"/>
+          <path d="M 2734.921 2425.6118 L 2859.921 2425.6118 C 2862.6823 2425.6118 2864.921 2427.8504 2864.921 2430.6118 L 2864.921 2564.6118 C 2864.921 2567.3732 2862.6823 2569.6118 2859.921 2569.6118 L 2734.921 2569.6118 C 2732.1595 2569.6118 2729.921 2567.3732 2729.921 2564.6118 L 2729.921 2430.6118 C 2729.921 2427.8504 2732.1595 2425.6118 2734.921 2425.6118 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <clipPath id="clip_path_5">
+            <path d="M 5 0 L 130 0 C 132.76142 0 135 2.2385763 135 5 L 135 139 C 135 141.76142 132.76142 144 130 144 L 5 144 C 2.2385763 144 0 141.76142 0 139 L 0 5 C 0 2.2385763 2.2385763 0 5 0 Z" fill="white" fill-opacity=".5"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_5)" transform="translate(2732.921 2428.6118)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="39.83496" y="11">InfluxDB</tspan>
+          </text>
+        </g>
+        <g id="Graphic_137">
+          <text transform="translate(2849.921 2425.6118)" fill="black"/>
+        </g>
+      </g>
+      <g id="Graphic_135">
+        <rect x="2725.421" y="2448.1118" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="2725.421" y="2448.1118" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2736.671 2445.6118)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 8086</tspan>
+        </text>
+      </g>
+      <g id="Graphic_134">
+        <rect x="2725.421" y="2533.6118" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="2725.421" y="2533.6118" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2736.671 2531.1118)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 8083</tspan>
+        </text>
+      </g>
+      <g id="Group_130">
+        <title>Provided interface</title>
+        <g id="Graphic_133">
+          <ellipse cx="2646" cy="2538.056" rx="4.50000719055909" ry="4.55590790100118" fill="white"/>
+          <ellipse cx="2646" cy="2538.056" rx="4.50000719055909" ry="4.55590790100118" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_132">
+          <line x1="2650.5" y1="2538.059" x2="2725.421" y2="2538.1088" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_131">
+          <text transform="translate(2600.9757 2520.1386)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">InfluxDB mgmt GUI</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_126">
+        <title>Provided interface</title>
+        <g id="Graphic_129">
+          <ellipse cx="2680.4208" cy="2452.556" rx="4.50000719055933" ry="4.55590790100106" fill="white"/>
+          <ellipse cx="2680.4208" cy="2452.556" rx="4.50000719055933" ry="4.55590790100106" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_128">
+          <line x1="2684.9208" y1="2452.561" x2="2725.421" y2="2452.6067" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_127">
+          <text transform="translate(2591.2334 2435.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">InfluxDB REST API</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_141">
+        <text transform="translate(2490.0364 2452.2162)" fill="black">
+          <tspan font-family="Helvetica" font-size="10" font-weight="400" fill="black" x="0" y="10">«flow»</tspan>
+        </text>
+      </g>
+      <g id="Line_142">
+        <title>Flow</title>
+        <line x1="2331" y1="2452.5" x2="2665.5208" y2="2452.5535" marker-end="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_144">
+        <path d="M 2898 2537.1 L 2898 2457.9 C 2898 2452.4352 2918.16 2448 2943 2448 C 2967.84 2448 2988 2452.4352 2988 2457.9 L 2988 2537.1 C 2988 2542.5648 2967.84 2547 2943 2547 C 2918.16 2547 2898 2542.5648 2898 2537.1" fill="white"/>
+        <path d="M 2898 2537.1 L 2898 2457.9 C 2898 2452.4352 2918.16 2448 2943 2448 C 2967.84 2448 2988 2452.4352 2988 2457.9 L 2988 2537.1 C 2988 2542.5648 2967.84 2547 2943 2547 C 2918.16 2547 2898 2542.5648 2898 2537.1 M 2898 2457.9 C 2898 2463.3648 2918.16 2467.8 2943 2467.8 C 2967.84 2467.8 2988 2463.3648 2988 2457.9" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_145">
+        <title>Association</title>
+        <line x1="2865.421" y1="2497.611" x2="2897.5" y2="2497.5652" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

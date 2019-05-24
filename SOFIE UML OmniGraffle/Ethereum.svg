@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="274 427 423 443" width="423" height="443">
+  <defs>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="532.22656" cap-height="719.7266" ascent="770.0195" descent="-229.98047" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Helvetica-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="10" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="9" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-05-24 06:43:19 +0000</dc:date>
+  </metadata>
+  <g id="Ethereum" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none">
+    <title>Ethereum</title>
+    <g id="Ethereum: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_2">
+        <title>Component</title>
+        <g id="Graphic_4">
+          <path d="M 279.5 427.5 L 368.5 427.5 C 371.26142 427.5 373.5 429.7386 373.5 432.5 L 373.5 512.5 C 373.5 515.2614 371.26142 517.5 368.5 517.5 L 279.5 517.5 C 276.73858 517.5 274.5 515.2614 274.5 512.5 L 274.5 432.5 C 274.5 429.7386 276.73858 427.5 279.5 427.5 Z" fill="white" fill-opacity=".5"/>
+          <path d="M 279.5 427.5 L 368.5 427.5 C 371.26142 427.5 373.5 429.7386 373.5 432.5 L 373.5 512.5 C 373.5 515.2614 371.26142 517.5 368.5 517.5 L 279.5 517.5 C 276.73858 517.5 274.5 515.2614 274.5 512.5 L 274.5 432.5 C 274.5 429.7386 276.73858 427.5 279.5 427.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <clipPath id="clip_path">
+            <path d="M 5 0 L 94 0 C 96.76142 0 99 2.2385763 99 5 L 99 85 C 99 87.76142 96.76142 90 94 90 L 5 90 C 2.2385763 90 0 87.76142 0 85 L 0 5 C 0 2.2385763 2.2385763 0 5 0 Z" fill="white" fill-opacity=".5"/>
+          </clipPath>
+          <text clip-path="url(#clip_path)" transform="translate(277.5 430.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="13.265625" y="11">Web3 client</tspan>
+          </text>
+        </g>
+        <g id="Graphic_3">
+          <text transform="translate(358.5 427.5)" fill="black"/>
+        </g>
+      </g>
+      <g id="Graphic_6">
+        <rect x="369" y="468" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="369" y="468" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_7">
+        <title>Component</title>
+        <g id="Graphic_9">
+          <path d="M 527 427.5 L 616 427.5 C 618.7614 427.5 621 429.7386 621 432.5 L 621 602.5 C 621 605.2614 618.7614 607.5 616 607.5 L 527 607.5 C 524.2386 607.5 522 605.2614 522 602.5 L 522 432.5 C 522 429.7386 524.2386 427.5 527 427.5 Z" fill="white" fill-opacity=".5"/>
+          <path d="M 527 427.5 L 616 427.5 C 618.7614 427.5 621 429.7386 621 432.5 L 621 602.5 C 621 605.2614 618.7614 607.5 616 607.5 L 527 607.5 C 524.2386 607.5 522 605.2614 522 602.5 L 522 432.5 C 522 429.7386 524.2386 427.5 527 427.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <clipPath id="clip_path_2">
+            <path d="M 5 0 L 94 0 C 96.76142 0 99 2.2385763 99 5 L 99 175 C 99 177.76142 96.76142 180 94 180 L 5 180 C 2.2385763 180 0 177.76142 0 175 L 0 5 C 0 2.2385763 2.2385763 0 5 0 Z" fill="white" fill-opacity=".5"/>
+          </clipPath>
+          <text clip-path="url(#clip_path_2)" transform="translate(525 430.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="18.826172" y="11">Ethereum</tspan>
+          </text>
+        </g>
+        <g id="Graphic_8">
+          <text transform="translate(606 427.5)" fill="black"/>
+        </g>
+      </g>
+      <g id="Graphic_10">
+        <rect x="517.5" y="468" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="517.5" y="468" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(528.75 465.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 8545</tspan>
+        </text>
+      </g>
+      <g id="Group_11">
+        <title>Assembly</title>
+        <g id="Line_16">
+          <line x1="458.91665" y1="472.70775" x2="517.5" y2="472.5148" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Group_13">
+          <g id="Graphic_15">
+            <ellipse cx="454.41667" cy="472.72257" rx="4.50000719055919" ry="4.55590790100103" fill="white"/>
+            <ellipse cx="454.41667" cy="472.72257" rx="4.50000719055919" ry="4.55590790100103" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_14">
+            <path d="M 454.5 463.5 C 450.5625 463.5 445.5 466.54167 445.5 472.5 C 445.50003 478.45833 450.3125 481.5 454.5 481.5 C 450.3125 481.5 445.5 478.5 445.5 472.5 C 445.49997 466.5 450.5625 463.5 454.5 463.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Line_12">
+          <line x1="378" y1="472.5" x2="445.5" y2="472.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Graphic_17">
+        <text transform="translate(405.5 432.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">&lt;&lt;JSON RPC&gt;&gt;</tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="20.000977" y="25">web3.eth</tspan>
+        </text>
+      </g>
+      <g id="Group_22">
+        <title>Two-way interface</title>
+        <g id="Graphic_31">
+          <rect x="616.5" y="481.5" width="9.000007" height="36" fill="white"/>
+          <rect x="616.5" y="481.5" width="9.000007" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(553.7578 492.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 30303</tspan>
+          </text>
+        </g>
+        <g id="Group_28">
+          <title>Required interface</title>
+          <g id="Graphic_30">
+            <path d="M 670.25 504.5 C 668.28125 504.5 665.75 505.93634 665.75 508.75 C 665.75 511.56366 668.15625 513 670.25 513 C 668.15625 513 665.75 511.58333 665.75 508.75 C 665.75 505.91667 668.28125 504.5 670.25 504.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_29">
+            <line x1="625.5" y1="508.5" x2="665.75" y2="508.75" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Group_23">
+          <title>Provided interface</title>
+          <g id="Graphic_27">
+            <ellipse cx="670.1667" cy="490.72257" rx="4.50000719055924" ry="4.555907901001" fill="white"/>
+            <ellipse cx="670.1667" cy="490.72257" rx="4.50000719055924" ry="4.555907901001" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_26"/>
+          <g id="Line_25">
+            <line x1="665.6667" y1="490.70014" x2="625.5" y2="490.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_24">
+            <text transform="translate(651.04926 472.77994)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">RLPx</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_32">
+        <title>Two-way interface</title>
+        <g id="Graphic_41">
+          <rect x="616.5" y="535.5" width="9.000007" height="36" fill="white"/>
+          <rect x="616.5" y="535.5" width="9.000007" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(552.4219 546.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">UDP 30303</tspan>
+          </text>
+        </g>
+        <g id="Group_38">
+          <title>Required interface</title>
+          <g id="Graphic_40">
+            <path d="M 670.25 558.5 C 668.28125 558.5 665.75 559.93634 665.75 562.75 C 665.75 565.56366 668.15625 567 670.25 567 C 668.15625 567 665.75 565.5833 665.75 562.75 C 665.75 559.9167 668.28125 558.5 670.25 558.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_39">
+            <line x1="625.5" y1="562.5" x2="665.75" y2="562.75" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Group_33">
+          <title>Provided interface</title>
+          <g id="Graphic_37">
+            <ellipse cx="670.1667" cy="544.72257" rx="4.50000719055924" ry="4.55590790100091" fill="white"/>
+            <ellipse cx="670.1667" cy="544.72257" rx="4.50000719055924" ry="4.55590790100091" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_36"/>
+          <g id="Line_35">
+            <line x1="665.6667" y1="544.70014" x2="625.5" y2="544.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_34">
+            <text transform="translate(653.0532 526.77994)" fill="black">
+              <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">NDP</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_42">
+        <g id="Graphic_44">
+          <path d="M 284 652.5 L 364 652.5 C 366.76142 652.5 369 654.7386 369 657.5 L 369 683.5 C 369 686.2614 366.76142 688.5 364 688.5 L 284 688.5 C 281.23858 688.5 279 686.2614 279 683.5 L 279 657.5 C 279 654.7386 281.23858 652.5 284 652.5 Z" fill="white"/>
+          <path d="M 284 652.5 L 364 652.5 C 366.76142 652.5 369 654.7386 369 657.5 L 369 683.5 C 369 686.2614 366.76142 688.5 364 688.5 L 284 688.5 C 281.23858 688.5 279 686.2614 279 683.5 L 279 657.5 C 279 654.7386 281.23858 652.5 284 652.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(284 664.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="10" font-weight="400" fill="black" x="13.964844" y="10">Web3 client</tspan>
+          </text>
+        </g>
+        <g id="Line_43">
+          <line x1="324" y1="688.5" x2="324" y2="868.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Graphic_47">
+        <path d="M 531.5 652.5 L 611.5 652.5 C 614.2614 652.5 616.5 654.7386 616.5 657.5 L 616.5 683.5 C 616.5 686.2614 614.2614 688.5 611.5 688.5 L 531.5 688.5 C 528.7386 688.5 526.5 686.2614 526.5 683.5 L 526.5 657.5 C 526.5 654.7386 528.7386 652.5 531.5 652.5 Z" fill="white"/>
+        <path d="M 531.5 652.5 L 611.5 652.5 C 614.2614 652.5 616.5 654.7386 616.5 657.5 L 616.5 683.5 C 616.5 686.2614 614.2614 688.5 611.5 688.5 L 531.5 688.5 C 528.7386 688.5 526.5 686.2614 526.5 683.5 L 526.5 657.5 C 526.5 654.7386 528.7386 652.5 531.5 652.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(531.5 664.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="10" font-weight="400" fill="black" x="18.322754" y="10">Ethereum</tspan>
+        </text>
+      </g>
+      <g id="Line_46">
+        <line x1="571.5" y1="716" x2="571.5" y2="868.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_48">
+        <rect x="540" y="688.5" width="63" height="13.500005" fill="white"/>
+        <rect x="540" y="688.5" width="63" height="13.500005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(551.3181 689.75)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">TCP 8545</tspan>
+        </text>
+      </g>
+      <g id="Graphic_49">
+        <rect x="544.5" y="702" width="54" height="13.500005" fill="white"/>
+        <rect x="544.5" y="702" width="54" height="13.500005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(559.8237 703.25)" fill="black">
+          <tspan font-family="Helvetica" font-size="9" font-weight="400" fill="black" x="0" y="9">Web3</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

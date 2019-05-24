@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="220 676 568 549" width="568" height="549">
+  <defs>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="532.22656" cap-height="719.7266" ascent="770.0195" descent="-229.98047" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Helvetica-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M -8 0 L 0 0 M 0 3 L -8 0 L 0 -3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="10" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-05-24 06:43:19 +0000</dc:date>
+  </metadata>
+  <g id="InfluxDB" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none">
+    <title>InfluxDB</title>
+    <g id="InfluxDB: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_16">
+        <title>Component</title>
+        <g id="Graphic_18">
+          <path d="M 455 702 L 580 702 C 582.7614 702 585 704.2386 585 707 L 585 881.5 C 585 884.2614 582.7614 886.5 580 886.5 L 455 886.5 C 452.2386 886.5 450 884.2614 450 881.5 L 450 707 C 450 704.2386 452.2386 702 455 702 Z" fill="white" fill-opacity=".5"/>
+          <path d="M 455 702 L 580 702 C 582.7614 702 585 704.2386 585 707 L 585 881.5 C 585 884.2614 582.7614 886.5 580 886.5 L 455 886.5 C 452.2386 886.5 450 884.2614 450 881.5 L 450 707 C 450 704.2386 452.2386 702 455 702 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <clipPath id="clip_path">
+            <path d="M 5 0 L 130 0 C 132.76142 0 135 2.2385763 135 5 L 135 179.5 C 135 182.26142 132.76142 184.5 130 184.5 L 5 184.5 C 2.2385763 184.5 0 182.26142 0 179.5 L 0 5 C 0 2.2385763 2.2385763 0 5 0 Z" fill="white" fill-opacity=".5"/>
+          </clipPath>
+          <text clip-path="url(#clip_path)" transform="translate(453 705)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="39.83496" y="11">InfluxDB</tspan>
+          </text>
+        </g>
+        <g id="Graphic_17">
+          <text transform="translate(570 702)" fill="black"/>
+        </g>
+      </g>
+      <g id="Graphic_2">
+        <rect x="445.5" y="724.5" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="445.5" y="724.5" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(456.75 722)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 8086</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <rect x="445.5" y="801" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="445.5" y="801" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(456.75 798.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 8083</tspan>
+        </text>
+      </g>
+      <g id="Group_4">
+        <title>Provided interface</title>
+        <g id="Graphic_7">
+          <ellipse cx="400.33333" cy="805.5559" rx="4.50000719055925" ry="4.55590790100094" fill="white"/>
+          <ellipse cx="400.33333" cy="805.5559" rx="4.50000719055925" ry="4.55590790100094" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_6">
+          <line x1="404.83333" y1="805.5508" x2="445.5" y2="805.5051" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_5">
+          <text transform="translate(337.6465 786)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">InfluxDB mgmt GUI</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_8">
+        <title>Provided interface</title>
+        <g id="Graphic_11">
+          <ellipse cx="400.4999" cy="728.9441" rx="4.50000719055921" ry="4.55590790100091" fill="white"/>
+          <ellipse cx="400.4999" cy="728.9441" rx="4.50000719055921" ry="4.55590790100091" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_10">
+          <line x1="404.9999" y1="728.9492" x2="445.5" y2="728.9949" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_9">
+          <text transform="translate(311.31246 711.8882)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">InfluxDB REST API</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_12">
+        <title>Provided interface</title>
+        <g id="Graphic_15">
+          <ellipse cx="400.49994" cy="697.4441" rx="4.50000719055925" ry="4.55590790100097" fill="white"/>
+          <ellipse cx="400.49994" cy="697.4441" rx="4.50000719055925" ry="4.55590790100097" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_14">
+          <line x1="404.30875" y1="699.8722" x2="445.5" y2="726.1313" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_13">
+          <text transform="translate(312.1963 679.8693)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">HTTP basic / URL auth</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_19">
+        <title>Provided interface</title>
+        <g id="Graphic_22">
+          <ellipse cx="400.5" cy="760.5559" rx="4.50000719055919" ry="4.55590790100091" fill="white"/>
+          <ellipse cx="400.5" cy="760.5559" rx="4.50000719055919" ry="4.55590790100091" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_21">
+          <line x1="405" y1="760.5559" x2="445.5" y2="732.1556" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_20">
+          <text transform="translate(387.4922 739)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TLS</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_23">
+        <title>System boundary (18.1.4)</title>
+        <rect x="369" y="931.5" width="252" height="292.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(374 931.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="0" y="11">InfluxDB</tspan>
+        </text>
+      </g>
+      <g id="Group_24">
+        <title>Actor</title>
+        <g id="Graphic_31">
+          <text transform="translate(738.9932 971)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">Admin</tspan>
+          </text>
+        </g>
+        <g id="Group_25">
+          <g id="Graphic_30">
+            <ellipse cx="755.9997" cy="929.5102" rx="6.75071078695639" ry="7.96805207640732" fill="white"/>
+            <ellipse cx="755.9997" cy="929.5102" rx="6.75071078695639" ry="7.96805207640732" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_29">
+            <line x1="756" y1="937.4766" x2="756" y2="949.4156" stroke="black" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_28">
+            <line x1="756" y1="949.4156" x2="748.5" y2="965.3512" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_27">
+            <line x1="756" y1="949.4156" x2="763.5" y2="965.3512" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Line_26">
+            <line x1="763.5" y1="943.9684" x2="748.5" y2="943.8209" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_41">
+        <title>Use case</title>
+        <ellipse cx="495" cy="1048.5" rx="54.0000862867024" ry="18.0000287622341" fill="white"/>
+        <ellipse cx="495" cy="1048.5" rx="54.0000862867024" ry="18.0000287622341" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(456.8 1034.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="2.847461" y="11">Grant read to </tspan>
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="18.51836" y="25">dataset</tspan>
+        </text>
+      </g>
+      <g id="Graphic_42">
+        <title>Use case</title>
+        <ellipse cx="495" cy="1174.5" rx="54.0000862867024" ry="18.0000287622341" fill="white"/>
+        <ellipse cx="495" cy="1174.5" rx="54.0000862867024" ry="18.0000287622341" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(456.8 1167.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="7.517383" y="11">Delete user</tspan>
+        </text>
+      </g>
+      <g id="Group_43">
+        <g id="Graphic_47">
+          <rect x="697.5" y="1030.5" width="90" height="43.5" fill="white"/>
+          <rect x="697.5" y="1030.5" width="90" height="43.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(702.5 1031.25)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="21.99707" y="11">SOFIE </tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="4.9785156" y="25">marketplace </tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="700" fill="black" x="19.667969" y="39">control</tspan>
+          </text>
+        </g>
+        <g id="Group_44">
+          <g id="Graphic_46">
+            <ellipse cx="776.07745" cy="1041.2799" rx="6.5274604302247" ry="7.1209113784996" fill="white"/>
+            <ellipse cx="776.07745" cy="1041.2799" rx="6.5274604302247" ry="7.1209113784996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Line_45">
+            <line x1="769.55" y1="1048.401" x2="782.605" y2="1048.401" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_48">
+        <title>Association</title>
+        <line x1="532.7184" y1="994.199" x2="697.5" y2="1052.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_49">
+        <title>Association</title>
+        <line x1="549.42366" y1="1049.4688" x2="697.5" y2="1052.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_50">
+        <title>Association</title>
+        <line x1="521.55025" y1="1158.4825" x2="697.5" y2="1052.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_51">
+        <g id="Graphic_55">
+          <rect x="220.5" y="1021.5" width="90" height="48" fill="white"/>
+          <rect x="220.5" y="1021.5" width="90" height="48" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(225.5 1024.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="21.99707" y="11">SOFIE</tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="7.319336" y="25">marketplace </tspan>
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="22.65625" y="39">reader</tspan>
+          </text>
+        </g>
+        <g id="Group_52">
+          <g id="Graphic_54">
+            <ellipse cx="299.07745" cy="1033.3951" rx="6.52746043022476" ry="7.85755738317197" fill="white"/>
+            <ellipse cx="299.07745" cy="1033.3951" rx="6.52746043022476" ry="7.85755738317197" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+          </g>
+          <g id="Line_53">
+            <line x1="292.55" y1="1041.2528" x2="305.605" y2="1041.2528" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_56">
+        <title>Association</title>
+        <line x1="319.84516" y1="1042.2323" x2="495.1061" y2="980.9486" marker-start="url(#StickArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_40">
+        <title>Use case</title>
+        <ellipse cx="495" cy="981" rx="54.0000862867024" ry="18.0000287622342" fill="white"/>
+        <ellipse cx="495" cy="981" rx="54.0000862867024" ry="18.0000287622342" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(456.8 974)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="6.852344" y="11">Create user</tspan>
+        </text>
+      </g>
+      <g id="Graphic_57">
+        <text transform="translate(359.3889 1028.788) rotate(-24)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="10" font-weight="400" fill="black" x="0" y="10">&lt;&lt;creates&gt;&gt;</tspan>
+        </text>
+      </g>
+      <g id="Graphic_59">
+        <rect x="580.5" y="810" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="580.5" y="810" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(524.43164 807.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 8088</tspan>
+        </text>
+      </g>
+      <g id="Group_60">
+        <title>Provided interface</title>
+        <g id="Graphic_63">
+          <ellipse cx="625.5" cy="814.5559" rx="4.50000719055927" ry="4.55590790100088" fill="white"/>
+          <ellipse cx="625.5" cy="814.5559" rx="4.50000719055927" ry="4.55590790100088" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_62">
+          <line x1="621" y1="814.5497" x2="589.5" y2="814.5062" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_61">
+          <text transform="translate(597.346 797.5497)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">InfluxDB backup and restore</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_64">
+        <rect x="580.5" y="765" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="580.5" y="765" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(524.43164 762.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 8089</tspan>
+        </text>
+      </g>
+      <g id="Group_66">
+        <title>Provided interface</title>
+        <g id="Graphic_69">
+          <ellipse cx="625.5" cy="769.4441" rx="4.50000719055927" ry="4.55590790100103" fill="white"/>
+          <ellipse cx="625.5" cy="769.4441" rx="4.50000719055927" ry="4.55590790100103" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_68">
+          <line x1="621" y1="769.4503" x2="589.5" y2="769.4938" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_67">
+          <text transform="translate(597.31836 752.4503)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">InfluxDB meta communication</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_74">
+        <rect x="445.5" y="843.75" width="9.000007" height="9.000005" fill="white"/>
+        <rect x="445.5" y="843.75" width="9.000007" height="9.000005" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(456.75 841.25)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TCP 8091</tspan>
+        </text>
+      </g>
+      <g id="Group_75">
+        <title>Provided interface</title>
+        <g id="Graphic_78">
+          <ellipse cx="404.83333" cy="848.25" rx="4.50000719055922" ry="4.55590790100088" fill="white"/>
+          <ellipse cx="404.83333" cy="848.25" rx="4.50000719055922" ry="4.55590790100088" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_77">
+          <line x1="409.33334" y1="848.25" x2="445.5" y2="848.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_76">
+          <text transform="translate(314.81966 825.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">InfluxDB meta mgmt API</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_79">
+        <title>Provided interface</title>
+        <g id="Graphic_82">
+          <ellipse cx="405" cy="872.9441" rx="4.50000719055925" ry="4.55590790100094" fill="white"/>
+          <ellipse cx="405" cy="872.9441" rx="4.50000719055925" ry="4.55590790100094" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_81">
+          <line x1="409.5" y1="872.9441" x2="445.5" y2="850.9938" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_80">
+          <text transform="translate(391.9922 880.5)" fill="black">
+            <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="0" y="11">TLS</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_84">
+        <title>Association</title>
+        <line x1="310.5" y1="1045.5" x2="495.1061" y2="1111.4486" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_83">
+        <title>Use case</title>
+        <ellipse cx="495" cy="1111.5" rx="54.0000862867024" ry="18.0000287622341" fill="white"/>
+        <ellipse cx="495" cy="1111.5" rx="54.0000862867024" ry="18.0000287622341" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(456.8 1104.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" font-weight="400" fill="black" x="2.5076172" y="11">Read dataset</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
